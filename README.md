@@ -30,6 +30,7 @@
 ## Other plotting systems and resources
 - [DiagrammeR](http://rich-iannone.github.io/DiagrammeR/index.html): Create nice diagrams. I particularly like the [mermaid sequence diagrams](http://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html#mermaid).
 - [Mermaid live editor](https://mermaidjs.github.io/mermaid-live-editor/): Useful for previewing mermaid diagrams.
+- [corrplot](https://cran.r-project.org/web/packages/corrplot/vignettes/corrplot-intro.html): Correlation plots.
 
 
 ## Color
