@@ -19,6 +19,7 @@
 - [tidygraph](https://github.com/thomasp85/tidygraph): Not for plotting _per se_, but links with ggraph for manipulating graph objects.
 - [gganimate](https://github.com/thomasp85/gganimate): Animated plots.
 - [ggridges](https://github.com/clauswilke/ggridges): Ridge plots
+- [ggExtra](https://cran.r-project.org/web/packages/ggExtra/README.html): Add marginal plots and other enhancements.
 
 
 ## Books
