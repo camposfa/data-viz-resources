@@ -23,7 +23,7 @@
 
 
 ## Books
-- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by [Claus Wilke](https://github.com/clauswilke)
+- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by [Claus Wilke](https://github.com/clauswilke). Lots of great information and beautifully designed plots. The [source code](https://github.com/clauswilke/dataviz) for the book allows you to see the ggplot2 commands used to create every plot in the book.
 
 
 ## Color
