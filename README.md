@@ -1,5 +1,10 @@
 # A list of resources for data visualization in R
 
+
+## Books
+- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by [Claus Wilke](https://github.com/clauswilke). Lots of great information and beautifully designed plots. The [source code](https://github.com/clauswilke/dataviz) for the book allows you to see the ggplot2 commands used to create every plot in the book.
+
+
 ## ggplot2 package and extensions
 
 - [ggplot on CRAN](https://cran.r-project.org/package=ggplot2)
@@ -25,10 +30,6 @@
 ## Other plotting systems and resources
 - [DiagrammeR](http://rich-iannone.github.io/DiagrammeR/index.html): Create nice diagrams. I particularly like the [mermaid sequence diagrams](http://rich-iannone.github.io/DiagrammeR/graphviz_and_mermaid.html#mermaid).
 - [Mermaid live editor](https://mermaidjs.github.io/mermaid-live-editor/): Useful for previewing mermaid diagrams.
-
-
-## Books
-- [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/) by [Claus Wilke](https://github.com/clauswilke). Lots of great information and beautifully designed plots. The [source code](https://github.com/clauswilke/dataviz) for the book allows you to see the ggplot2 commands used to create every plot in the book.
 
 
 ## Color
