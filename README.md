@@ -9,8 +9,8 @@
 
 - [ggplot2 on CRAN](https://cran.r-project.org/package=ggplot2)
 - [ggplot2 Package Documentation](https://ggplot2.tidyverse.org/index.html)
-- [ggplot2 Reference Pages](docs.ggplot2.org/current/)
-- [ggplot2 Extensions](ggplot2-exts.github.io/index.html)
+- [ggplot2 Reference Pages](https://docs.ggplot2.org/current/)
+- [ggplot2 Extensions](https://ggplot2-exts.github.io/index.html)
 
 
 ## Composing ggplot2 plots
